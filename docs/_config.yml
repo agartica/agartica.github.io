@@ -28,7 +28,7 @@ twitter_username: Juno_Edits
 github_username:  agartica
 
 # Build settings
-theme: jekyll-theme-cayman
+remote-theme: cayman
 plugins:
 - jekyll-feed
 - jekyll-remote-theme # add this line to the plugins list if you already have one
