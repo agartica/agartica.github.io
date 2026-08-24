@@ -28,21 +28,10 @@ twitter_username: Juno_Edits
 github_username:  agartica
 
 # Build settings
-theme: benbalter/retlab@latest
+theme: minima
 plugins:
 - jekyll-feed
-- jekyll-seo-tag
-- jekyll-remote-theme
-- jekyll-coffeescript
-- jekyll-commonmark-ghpages
-- jekyll-gist 
-- jekyll-github-metadata
-- jekyll-paginate 
-- jekyll-relative-links 
-- jekyll-optional-front-matter
-- jekyll-readme-index
-- jekyll-default-layout
-- jekyll-titles-from-headings # add this line to the plugins list if you already have one
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
