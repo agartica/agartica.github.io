@@ -28,7 +28,7 @@ twitter_username: Juno_Edits
 github_username:  agartica
 
 # Build settings
-theme: 
+theme: minima
 remote-theme: pages-themes/cayman
 plugins:
 - jekyll-feed
