@@ -28,7 +28,7 @@ twitter_username: Juno_Edits
 github_username:  agartica
 
 # Build settings
-remote_theme: benbalter/retlab@latest
+theme: benbalter/retlab@latest
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
